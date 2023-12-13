@@ -61,9 +61,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Akshar062/Akshar062/output/snake.svg" alt="Snake animation" />
+[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=axar2324t&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/axar2324t)
 
-[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?url=https%3A%2F%2Fwww.buymeacoffee.com%2Faxar2324t&style=flat&emoji=☕&color=FFDD00&slug=axar2324t)](https://www.buymeacoffee.com/axar2324t)
 
 
 ###
