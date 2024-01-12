@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Akshar and I'm a Software Devloper  from India..</h2>
+<h2 align="left">Hi 👋! My name is Akshar and I'm a Software Devloper from India..</h2>
 
 ###
 
@@ -36,6 +36,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
+
+###
+<!-- GitHub Stats -->
+![Akshar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshar062&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshar062&layout=compact&theme=radical)
+
+
 
 ###
 
