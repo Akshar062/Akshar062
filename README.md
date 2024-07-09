@@ -49,7 +49,7 @@
 ###
 
 <div align="left">
-  <a href="https://instagram.com/akshu_23_24" target="_blank">
+  <a href="https://instagram.com/akshar_.kalathiya" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="http://discordapp.com/users/610346848267534336" target="_blank">
