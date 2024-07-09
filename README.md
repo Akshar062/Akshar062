@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Akshar and I'm a Software Devloper from India..</h2>
+<h2 align="left">Hi 👋! My name is Akshar and I'm a Software Devloper...</h2>
 
 ###
 
